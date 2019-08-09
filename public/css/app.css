@@ -1,0 +1,65 @@
+.container-body {
+    margin-top: 35px;
+}
+
+[id*="admin"] {
+    padding: 50px;
+    margin: 10px;
+}
+
+.a-dashboards {
+    color: silver;
+}
+
+[alt*=team] {
+    height: 200px;
+    width: 200px;
+}
+
+.md-avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+}
+
+div .label {
+    width: 150px;
+    margin-top: 1%;
+}
+
+.twitter-timeline {
+    width:400px;
+    height:186px;
+    margin-top: 2%;
+    margin-right: 2%;
+}
+
+.competitions-container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.competitions {
+    margin-right: 5%;
+    margin-top: 2%;
+    text-align: center;
+}
+
+.competition-image {
+    display: inline-block;
+    vertical-align: center;
+
+}
+
+.matches:first-of-type {
+    margin-top: 5%;
+}
+
+.matches {
+    margin-top: 1%;
+}
+
+.match {
+    margin-top: 2%;
+}
